@@ -1,6 +1,6 @@
 {
-    "name": "Makoto'nun Cloudstream Reposu",
-    "description": "Türkçe Cloudstream eklentiler listesi",
+    "name": "CS Repo",
+    "description": "CS Addons List",
     "manifestVersion": 1,
     "pluginLists": [
       "https://raw.githubusercontent.com/Fargo991/Cloudstream-Turkce-Eklentiler/main/plugins.json"
